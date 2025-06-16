@@ -21,6 +21,39 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>Native Packages</th>
       <th>Effect</th>
     </tr>
+    <!--Tencent GDT SDK-->
+    <tr>
+        <!--feature-->
+        <td>Tencent Android and iOS WeChatSDK</td>
+        <!--Official or Community</th>-->
+        <td>Community</td>
+        <!--Android Nuget-->
+        <td>
+            Waiting
+        </td>
+        <!--iOS Nuget-->
+        <td>
+            <a href="https://www.nuget.org/packages/Net.MAUILibrary.iOS.GDTMobSDK/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Net.MAUILibrary.iOS.GDTMobSDK.svg?label=GDTSDK"/>
+            </a>
+        </td>
+        <!--Android Demo-->
+        <td>
+            Waiting
+        </td>    
+        <!--iOS Demo-->     
+        <td>
+            Waiting
+        </td>
+        <!--Native Packages-->
+        <td>
+            Waiting
+        </td>
+        <!--Effect-->
+        <td>
+            Waiting
+        </td>
+    </tr>
     <!--Tencent Wechat SDK-->
     <tr>
         <td>Tencent Android and iOS WeChatSDK</td>
