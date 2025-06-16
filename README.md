@@ -48,8 +48,10 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
         <!--Native Packages-->
-        <td>
-            Waiting
+        <td>            
+            <a href="https://adnet.qq.com/resource/sdk">
+                Official SDK
+            </a>
         </td>
         <!--Effect-->
         <td>
