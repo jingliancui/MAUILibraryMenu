@@ -578,35 +578,6 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
     </tr>
-    <!--微信SDK-->
-    <tr>
-        <td>WeChatSDK<br>(微信SDK)</td>
-        <td>Community</td>
-        <td>
-            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.WechatSDK/">
-                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.WechatSDK.svg?label=WechatSDK"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.WechatSDK/">
-                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.WechatSDK.svg?label=WechatSDK"/>
-            </a>
-        </td>
-        <td colspan="2">
-            <a href="https://github.com/jingliancui/XamarinFormsWechatSDKSample">
-                Demo URL
-            </a>
-        </td>     
-        <td>
-            <a href="https://developers.weixin.qq.com/doc/oplatform/Downloads/Android_Resource.html">
-                Android
-            </a>
-            <br>
-            <a href="https://developers.weixin.qq.com/doc/oplatform/Downloads/iOS_Resource.html">
-                iOS
-            </a>
-        </td>
-    </tr>
     <!--腾讯Bugly-->
     <tr>
         <td>Tencent Bugly<br>(腾讯Bugly)</td>
