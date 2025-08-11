@@ -24,7 +24,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
     <!--Tencent GDT SDK-->
     <tr>
         <!--feature-->
-        <td>Tencent Android and iOS WeChatSDK</td>
+        <td>Tencent GDT SDK</td>
         <!--Official or Community</th>-->
         <td>Community</td>
         <!--Android Nuget-->
